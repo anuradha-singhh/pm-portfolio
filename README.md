@@ -1,4 +1,4 @@
-# pm-portfoli0
+# pm-portfolio
 ## Certifications
 
 - **Event Management** — Indira Gandhi National Open University (IGNOU), December 2025
